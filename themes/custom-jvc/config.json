@@ -1,0 +1,30 @@
+{
+  "dock_apps": [
+    "com.mediatek.wwtv.tvcenter",
+    "com.google.android.youtube.tv",
+    "com.global.latinotv",
+    "com.crunchyroll.crunchyroid",
+    "org.jellyfin.androidtv",
+    "com.netflix.ninja",
+    "com.wbd.stream",
+    "com.amazon.amazonvideo.livingroom",
+    "org.videolan.vlc"
+  ],
+  "hidden_apps": [
+    "com.hbo.hbonow",
+    "com.android.tv.settings",
+    "com.android.vending",
+    "com.mediatek.wwtv.mediaplayer",
+    "com.mdstrm.michv",
+    "com.airoha.btd",
+    "com.spotify.tv.android",
+    "com.gathin.tvhome",
+    "tv.twitch.android.app",
+    "com.disney.disneyplus",
+    "com.yablio.sendfilestotv"
+  ],
+  "columns": 5,
+  "rows_below_dock": 1,
+  "fill_dock": true,
+  "tile_menu": true
+}

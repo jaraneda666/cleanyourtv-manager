@@ -1,0 +1,17 @@
+# Debloat verificado para TCL BeyondTV (Android 11) - IP 192.168.2.4
+# Telemetría, analíticas y servicios promocionales de TCL
+com.tcl.bi
+com.tcl.tv.tclhome_passive
+com.tcl.tv.tclhome_master
+com.tcl.waterfall.overseas
+com.tcl.esticker
+com.tcl.guard
+com.tcl.notereminder
+com.tcl.copydatatotv
+com.tcl.messagebox
+
+# Anuncios y recomendaciones patrocinadas de Google
+com.google.android.tvrecommendations
+com.google.android.videos
+com.google.android.play.games
+com.google.android.youtube.tvmusic

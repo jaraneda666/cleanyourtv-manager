@@ -1,0 +1,15 @@
+# Debloat seguro para JVC SA 2K Android TV (Android 11) - IP 192.168.2.12
+# Telemetría de reconocimiento de contenido (ACR), diagnóstico y avisos de fabricante
+tv.anoki.acr.controller
+com.mstar.android.tv.disclaimercustomization
+com.mediatek.testpq
+
+# Telemetría y atribución de Google
+com.google.android.feedback
+com.google.android.partnersetup
+
+# Anuncios, recomendaciones patrocinadas y bloatware multimedia de Google
+com.google.android.tvrecommendations
+com.google.android.videos
+com.google.android.play.games
+com.google.android.youtube.tvmusic
